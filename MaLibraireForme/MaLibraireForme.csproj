@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll, Microsoft.VisualStudio.TestPlatform.TestFramework.dll</AssemblyName>
+  </PropertyGroup>
+
+</Project>
